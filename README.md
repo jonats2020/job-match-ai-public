@@ -60,7 +60,6 @@ Career Chat AI offers various subscription tiers to meet different needs:
 - **Frontend**: React, TypeScript, Tailwind CSS
 - **Backend**: Express, Node.js
 - **Database**: PostgreSQL
-- **Authentication**: Replit Auth
 - **AI Integration**: OpenAI
 - **Payment Processing**: PayPal
 
